@@ -1,0 +1,1 @@
+mkdir -p proyecto/documentos/temporales proyecto/documentos/aprobados proyecto/imagenes proyecto/ingenieria
